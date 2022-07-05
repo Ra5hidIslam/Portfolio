@@ -1,2 +1,2 @@
 # Portfolio
-Glimpse of my work
+Welcome to my portfolio.
